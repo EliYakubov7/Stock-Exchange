@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Stock Exchange</string>
+    <string name="no_data_available">No data available. Something went wrong</string>
+    <string-array name="list_companies">
+        <item>Select company</item>
+        <item>IBM</item>
+        <item>Microsoft</item>
+        <item>Apple</item>
+        <item>Alphabet</item>
+        <item>Meta</item>
+        <item>Tesla</item>
+        <item>Nvidia</item>
+        <item>JPMorgan</item>
+        <item>Mastercard</item>
+        <item>Walmart</item>
+        <item>Home Depot</item>
+    </string-array>
+</resources>

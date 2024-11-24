@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "565450231732",
+    "firebase_url": "https://stock-exchanges-default-rtdb.firebaseio.com",
+    "project_id": "stock-exchanges",
+    "storage_bucket": "stock-exchanges.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565450231732:android:68f3b2caa7061d723eace1",
+        "android_client_info": {
+          "package_name": "com.example.stockexchange"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf1-NoN9JYn07wM5HCgmyeC2jIewg3f2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
