@@ -64,7 +64,7 @@ Java - Java is a popular programming language. Java is used to develop mobile ap
 
 ### Sort Companies Stocks
 
-<img src="https://github.com/EliYakubov7/Stock-Exchange/blob/main/screenshots/sort_company_stocks.jpg" width="250">
+<img src="https://github.com/EliYakubov7/Stock-Exchange/blob/main/screenshots/sort_companies_stocks.jpg" width="250">
 
 ## Author
 
